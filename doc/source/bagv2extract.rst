@@ -50,8 +50,9 @@ BAG Bronbestanden downloaden
 De BAG bronbestanden zoals geleverd door Kadaster heten het "BAG Extract" product.
 Er was ook bijv BAG Compact, maar deze wordt niet meer voor BAG v2 geleverd.
 
-* voorlopig via https://extracten.bag.kadaster.nl/lvbag/extracten/
-* daar zowel landelijke als per-gemeente BAG-Extract leveringen
+* Op de 8e dag van elke maand wordt een nieuw Extract met de actuele gegevens aangemaakt: https://www.kadaster.nl/-/kosteloze-download-bag-2-0-extract
+* Zie verder productpagina https://www.kadaster.nl/zakelijk/producten/adressen-en-gebouwen/bag-2.0-extract
+* Daar zowel landelijke als per-gemeente BAG-Extract leveringen via abonnement of login
 
 BAG PostGIS dumps downloaden
 ----------------------------
